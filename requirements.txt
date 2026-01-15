@@ -10,15 +10,15 @@ flask-cors==4.0.0
 python-dotenv==1.0.0
 
 # Deep Learning
-tensorflow==2.20.0
-keras==2.15.0
+tensorflow==2.15.0
+keras==3.0.0
 
 # Image Processing
 Pillow==10.1.0
-opencv-python==4.8.1.78
+opencv-python-headless==4.8.1.78
 
 # Data Processing
-numpy==1.24.3
+numpy==1.26.4
 pandas==2.1.3
 
 # Visualization
